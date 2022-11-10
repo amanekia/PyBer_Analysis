@@ -5,9 +5,11 @@ In this project we were given data from PyBer (a ride sharing app) and were told
 
 ## Results
 This is the DataFrame that was generated
+
 <img width="631" alt="Screen Shot 2022-11-09 at 8 19 56 PM" src="https://user-images.githubusercontent.com/44278585/200980999-e489877f-7bc1-492a-8443-c498326df119.png">
 
 This is the graph that was generated
+
 <img width="994" alt="Screen Shot 2022-11-09 at 8 19 41 PM" src="https://user-images.githubusercontent.com/44278585/200981012-b1c64476-62fb-4310-945c-f5044db462d3.png">
 
 
