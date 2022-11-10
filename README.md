@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview of The Analysis
-In this project we were given data from PyBer (a ride sharing app) and were told to do some exploratory analysis. We had to use our python skills and knowledge of pandas to create a DataFrame of the ride sharing data by city type and then create a multi line graph that shows the total weekly fares for each city type.
+In this project we were given data from PyBer (a ride sharing app) and are told to do some exploratory analysis. We had to use our python skills and knowledge of pandas to create a DataFrame of the ride sharing data by city type and then create a multi line graph that shows the total weekly fares for each city type.
 
 ## Results
 This is the DataFrame that was generated
